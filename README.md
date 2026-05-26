@@ -51,13 +51,10 @@ A real-time **Sign Language Detection System** built using **Python, OpenCV, and
 ---
 
 ## 📸 Demo
+## 📸 Demo
 
-
-![Demo Image](./sign_gesture.png)
-
-![Demo Image](./sign_gesture_2.png)
-
-
+<img src="./assets/sign_gesture.png" width="700">
+<img src="./assets/sign_gesture_2.png" width="700">
 ---
 
 ## ⚙️ Installation
